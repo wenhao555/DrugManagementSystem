@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">药品管理系统</string>
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_registe">注册</string>
+    <string name="user_manage">用户管理</string>
+    <string name="purchase_control">进货管理</string>
+    <string name="sell_control">销售管理</string>
+    <string name="drug_destroy">药品销毁</string>
+    <string name="back">返回主界面</string>
+    <string name="exit">退出系统</string>
+    <string name="add_user">增加用户</string>
+    <string name="delete_user">删除用户</string>
+    <string name="change_password">修改密码</string>
+    <string name="query_user">查询全部用户</string>
+    <string name="delete_account">请输入需要删除的账户</string>
+    <string name="delete_submit">确认删除该账户</string>
+    <string name="backtologin">返回</string>
+    <string name="agree">确定</string>
+    <string name="disagree">取消</string>
+    <string name="change_account">用户名</string>
+    <string name="change_opassword">原密码</string>
+    <string name="change_npassword">新密码</string>
+    <string name="EditAccount">账户</string>
+    <string name="EditPassword">密码</string>
+    <string name="title_activity_deleteuser">删除用户</string>
+    <string name="title_activity_changeuser">修改密码</string>
+    <string name="title_activity_queryuser">查询全部用户</string>
+    <string name="title_activity_purchase_control">采购管理</string>
+    <string name="title_activity_user_manage">用户管理</string>
+    <string name="title_activity_sell_control">销售管理</string>
+    <string name="title_activity_drug_destroy">药品销毁</string>
+    <string name="add_supplie">添加供应商</string>
+    <string name="add_drug">添加药品</string>
+    <string name="stock_goods">进货</string>
+    <string name="purchase_order_enquiry">进货单查询</string>
+    <!-- 添加供应商-->
+    <string name="gysbh">供应商编号</string>
+    <string name="gysmc">供应商名称</string>
+    <string name="gysdh">供应商电话</string>
+    <!-- 添加药品-->
+    <string name="ypbh">药品编号</string>
+    <string name="ypmc">药品名称</string>
+    <string name="ypsj">药品售价</string>
+    <string name="ypjj">药品进价</string>
+    <string name="submit">提交</string>
+    <!--采购药品-->
+    <string name="jrqd">加入清单</string>
+    <string name="cqdqc">从清单去除</string>
+    <string name="czqd">重置清单</string>
+    <string name="qdcg">确定采购</string>
+    <string name="cgbh">采购编号</string>
+    <string name="cgsl">采购数量</string>
+    <!--销售管理-->
+    <string name="xs">药品销售</string>
+    <string name="xssl">销售数量</string>
+    <string name="xgjg">修改药品价格</string>
+    <string name="xsdcx">销售单查询</string>
+
+</resources>

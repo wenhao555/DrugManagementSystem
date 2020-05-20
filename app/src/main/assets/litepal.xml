@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="DrugSystem"></dbname>
+    <version value="4"></version>
+    <list>
+        <mapping class="com.example.drugmanagementsystem.User"></mapping>
+        <mapping class="com.example.drugmanagementsystem.Supplie"></mapping>
+        <mapping class="com.example.drugmanagementsystem.Drug"></mapping>
+        <mapping class="com.example.drugmanagementsystem.PurchaseFrom"></mapping>
+        <mapping class="com.example.drugmanagementsystem.Stock"></mapping>
+        <mapping class="com.example.drugmanagementsystem.PurchaseFroms"></mapping>
+        <mapping class="com.example.drugmanagementsystem.SalesFrom"></mapping>
+        <mapping class="com.example.drugmanagementsystem.SalesFroms"></mapping>
+    </list>
+</litepal>
